@@ -34,5 +34,5 @@ chargeback-agent/
 ├── frontend/          # React frontend application
 ├── backend/           # Python Flask API
 ├── docs/             # Design documents and blueprints
-└── demo/             # Demo data and scenarios
+
 ```
